@@ -1,0 +1,15 @@
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.csprojAssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/pokemones.deps.json
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/pokemones.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/pokemones.runtimeconfig.dev.json
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/pokemones.dll
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/ref/pokemones.dll
+/Users/chaos/Documents/Desarrollo/net/pokemones/bin/Debug/net5.0/pokemones.pdb
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.dll
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/ref/pokemones.dll
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.pdb
+/Users/chaos/Documents/Desarrollo/net/pokemones/obj/Debug/net5.0/pokemones.genruntimeconfig.cache
